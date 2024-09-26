@@ -1,0 +1,739 @@
+<?xml version="1.0" ?>
+<ROOT Var="Com" Type="AssetRefAnalyser.AssetReferenceSet">
+   <baseSubset Var="Com" Type="AssetRefAnalyser.AssetReferenceSubset">
+      <actions Var="Cus" Type="System.Collections.Generic.List`1[AssetRefAnalyser.Pair`2[System.String,System.Int32]]">
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/commonresource/Born</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/commonresource/Dead_Born</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/Death</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Gear/Festival/Huodong_2024/Firework0</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Gear/Festival/Huodong_2024/Firework1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Gear/Festival/Huodong_2024/Firework1E1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Gear/Festival/Huodong_2024/Firework2</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Gear/Festival/Huodong_2024/Firework2E1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Gear/Festival/Huodong_2024/Firework3</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Gear/Festival/Huodong_2024/Firework3E1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/commonresource/HasteE1_born</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/A1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/A2</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/A3</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/A4</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/A4E1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/A4E9</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/A3E1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/A2E1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/A1E1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/S1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/S11</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/S1E2</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/P1E1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/S1E1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/S1E9</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/S2</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_characters/prefab_hero/150_hanxin/skill/15015</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_characters/prefab_hero/150_hanxin/skill/15009t2</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/AP</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/S2E1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/S2E11</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/AutoY</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/U1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/U1E5</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/U1E1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/U2E1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/U3E1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/U1E9</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/commonresource/Heal1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/commonresource/Heal1E1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/commonresource/Heal1E2</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/P1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/P99</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Characters/Prefab_Hero/150_HanXin/skill/P96</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+      </actions>
+      <skillIDs Var="Cus" Type="System.Collections.Generic.List`1[AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]]">
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">15000</v1>
+            <v2 Var="String" Type="System.Int32">9</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">15010</v1>
+            <v2 Var="String" Type="System.Int32">4</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">15020</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">15030</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">90000</v1>
+            <v2 Var="String" Type="System.Int32">3</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">781712</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">15001</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">15002</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">15003</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">15011</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">15021</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+      </skillIDs>
+      <skillCombines Var="Cus" Type="System.Collections.Generic.List`1[AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]]">
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">7817121</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">7817122</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">7817123</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">9000590</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150000</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150010</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150020</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150030</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150039</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150100</v1>
+            <v2 Var="String" Type="System.Int32">6</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150900</v1>
+            <v2 Var="String" Type="System.Int32">6</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150190</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150110</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150201</v1>
+            <v2 Var="String" Type="System.Int32">2</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150200</v1>
+            <v2 Var="String" Type="System.Int32">2</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150901</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150300</v1>
+            <v2 Var="String" Type="System.Int32">3</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150350</v1>
+            <v2 Var="String" Type="System.Int32">2</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150310</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150320</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150390</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">90000</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">900009</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">150999</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+      </skillCombines>
+      <passiveSkillIDs Var="Cus" Type="System.Collections.Generic.List`1[AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]]">
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">15001</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.UInt32,System.Int32]">
+            <v1 Var="String" Type="System.UInt32">15099</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+      </passiveSkillIDs>
+      <particlesInFirstLayer Var="Cus" Type="System.Collections.Generic.List`1[AssetRefAnalyser.Pair`2[System.String,System.Int32]]">
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/siwang_tongyong_01</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_characters/commonempty</v1>
+            <v2 Var="String" Type="System.Int32">4</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack_01_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack_01</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack01_spell06</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_attack01_spell07</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_spell01_01</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_15015_spell01_Buff_01</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_attack01_spell06a</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_attack01_spell06a_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack01_spell06_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack01_spell05_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack01_spell05</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack01_spell05_ne</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack03_spell05</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack03_spell01</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack03_spell02</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack03_spell03</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack03_spell04</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_spell03</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_spell03_01</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_spell03_02</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_spell03_03</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_spell03_04</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_spell03_B</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_spell03_01_B</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_spell03_02_B</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_spell03_03_B</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_spell03_04_B</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack03_spell01_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack03_spell02_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack03_spell03_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack03_spell04_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_attack03_spell01</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_attack03_spell01a</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack03_spell03a</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_Hanxin_spellC_01</15007/v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_qiya_buff_01</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+      </particlesInFirstLayer>
+      <hurtParticlesInFirstLayer Var="Cus" Type="System.Collections.Generic.List`1[AssetRefAnalyser.Pair`2[System.String,System.Int32]]">
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/tongyong_effects/tongyong_hurt/born_back_reborn/chusheng_01</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/tongyong_effects/tongyong_hurt/born_back_reborn/huijidi_dead</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+      </hurtParticlesInFirstLayer>
+      <particlesInOtherLayer Var="Cus" Type="System.Collections.Generic.List`1[AssetRefAnalyser.Pair`2[System.String,System.Int32]]">
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Skill_Effects/New_Common_Effects/Huodong2024_yanhua_01</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Skill_Effects/New_Common_Effects/Huodong2024_yanhua_02</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Skill_Effects/New_Common_Effects/Huodong2024_yanhua_03</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_characters/commonempty</v1>
+            <v2 Var="String" Type="System.Int32">5</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack_02_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack_02</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack_03_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack_03</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_attack_04_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_attack_04</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/tongyong_effects/ui_fx/xuanyun_tongyong_01</v1>
+            <v2 Var="String" Type="System.Int32">3</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_15015_spell01_Buff_02</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_attack01_spell04</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack01_spell04</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack01_spell03</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack01_spell03_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack01_spell04_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_BUFF_R</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_BUFF_L</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_BUFF_R_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_15015_Buff</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_15015_Buff_Fade</v1>
+            <v2 Var="String" Type="System.Int32">2</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack01_spell05</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_attack01_spell05_01</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_spell02_fade</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack01_spell02</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_spell02_attack</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_attack01_spell02b </v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_attack01_spell02b_1 </v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_attack01_spell02_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Prefab_Skill_Effects/tongyong_effects/Indicator/AutoY</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/T2_qiya_Hair</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/common_effects/allhero_jiaxue_01</v1>
+            <v2 Var="String" Type="System.Int32">4</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/15013/Hanxin_Bone006_001</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+      </particlesInOtherLayer>
+      <hurtParticlesInOtherLayer Var="Cus" Type="System.Collections.Generic.List`1[AssetRefAnalyser.Pair`2[System.String,System.Int32]]">
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_hurt_01</v1>
+            <v2 Var="String" Type="System.Int32">11</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_hurt_01_1</v1>
+            <v2 Var="String" Type="System.Int32">6</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_hurt_01</v1>
+            <v2 Var="String" Type="System.Int32">6</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_hurt_01_01</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_hurt_02</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_hurt_03</v1>
+            <v2 Var="String" Type="System.Int32">9</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/hanxin_hurt_03_1</v1>
+            <v2 Var="String" Type="System.Int32">4</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">prefab_skill_effects/hero_skill_effects/150_hanxin/15007/Hanxin_hurt_03</v1>
+            <v2 Var="String" Type="System.Int32">3</v2>
+         </Item>
+      </hurtParticlesInOtherLayer>
+      <animations Var="Cus" Type="System.Collections.Generic.List`1[AssetRefAnalyser.Pair`2[System.String,System.Int32]]">
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Born</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Revival</v1>
+            <v2 Var="String" Type="System.Int32">3</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Revival2</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Dead</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Atk1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Atk2</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Atk3</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Atk4</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Stun</v1>
+            <v2 Var="String" Type="System.Int32">3</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Hit</v1>
+            <v2 Var="String" Type="System.Int32">10</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Spell1_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Spell1_2</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Spell2_1</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Spell2_2</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+         <Item Var="Com" Type="AssetRefAnalyser.Pair`2[System.String,System.Int32]">
+            <v1 Var="String" Type="System.String">Spell3</v1>
+            <v2 Var="String" Type="System.Int32">1</v2>
+         </Item>
+      </animations>
+   </baseSubset>
+</ROOT>
